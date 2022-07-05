@@ -1,0 +1,54 @@
+form{
+    display: flex;
+    flex-direction: column;
+    color: azure;
+    font-size: 18px;
+    font-weight: 700;
+}
+label{
+    padding: 10px 0px;
+    font-size: 22px;
+}
+input{
+    padding: 7px 10px;
+    margin: 10px 0;
+    border-radius:10px;
+    border-bottom: 1px solid black;
+}
+select{
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+.swt{
+    color: brown!important;
+    background-color:white;
+}
+textarea{
+    border-radius:10px;
+}
+.frmtit h1{
+   
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: azure;
+    padding-top: 5%;
+}
+.stud{
+    background-image: url(../../public/images.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.b1{
+    position: absolute;
+    left: 90%;
+    z-index: 1;
+    top: 80px;
+    /* background-color: blue; */
+}

@@ -1,0 +1,21 @@
+.nav{
+    background-color:cornflowerblue;
+    width: 100%;
+    height: 100vh;
+    padding-top: 50px;
+    
+}
+.nav i{
+    /* margin: 10px 30px; */
+    padding-right: 50px;
+    font-size: 30px;
+} 
+.nav a{
+    color: aquamarine;
+    margin: 15px;
+    display:block;
+    font-size: 20px;
+    padding: 15px 0px;
+    list-style-type: none;
+    text-decoration: none;
+}

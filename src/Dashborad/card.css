@@ -1,0 +1,39 @@
+.sericon{
+    font-size: 70px!important;
+}
+.cicon{
+    background-color:cornflowerblue!important;
+    height: 100px;
+    width: 100px;
+    box-shadow:0 3px 10px 0 rgb(0 0 0 / 14%);
+    position: absolute;
+    margin-top: -35px;
+    display: flex;
+    margin-left: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.data{
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.data p{
+    padding: 0px;
+    margin: 0px;
+}
+.card-header{
+    display: flex;
+    
+}
+.card{
+    border: none;
+    
+}
+.card-header{
+    margin-top:100px;
+    margin-left: 50px;
+    width: 350px;
+    height: 150px;
+    border: none;
+    box-shadow:0 1px 4px 0 rgb(0 0 0 / 14%);
+}
